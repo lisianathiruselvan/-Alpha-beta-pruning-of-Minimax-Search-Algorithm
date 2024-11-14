@@ -213,5 +213,7 @@ if __name__ == "__main__":
 ![Screenshot 2024-09-26 092019](https://github.com/user-attachments/assets/57a87712-581d-47c2-bec6-fbdc96427dbc)
 <hr>
 
+
+
 ## RESULT:
   We have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
